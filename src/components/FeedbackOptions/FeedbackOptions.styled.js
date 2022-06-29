@@ -16,6 +16,7 @@ export const FeedbackBtn = styled.button`
   font-weight: 700;
   padding: 10px;
   font-size: 15px;
+  margin: 5px;
   :hover {
     background-color: rgb(18, 84, 237);
   }
